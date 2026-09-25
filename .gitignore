@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+predictions.csv
+.idea/
+.vscode/
